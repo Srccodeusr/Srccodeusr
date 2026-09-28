@@ -26,8 +26,11 @@ I build Discord bots and websites: bots, hosting panels, install scripts and a f
 
 <div align="center">
 
-<img height="170" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Srccodeusr&show_icons=true&hide_border=true&bg_color=232428&title_color=e8a33d&icon_color=e8a33d&text_color=dbdee1">
-<img height="170" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srccodeusr&layout=compact&hide_border=true&bg_color=232428&title_color=e8a33d&text_color=dbdee1">
+<img src="assets/stats.svg" alt="GitHub stats" width="860">
+
+<br>
+
+<img src="assets/languages.svg" alt="Languages" width="860">
 
 </div>
 
